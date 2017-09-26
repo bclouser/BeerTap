@@ -1,0 +1,24 @@
+
+body {
+	background-color: #2A2A2A;
+	font-family: 'Nunito', sans-serif;
+
+	color: #6863CE;
+	color: #FF554C;
+	color: #7FC146;
+	color: rgba(255, 149, 0, 1);
+}
+
+.container {
+	width: 100%;
+}
+
+.row.active-flow-reading div.reading {
+	text-align: center;	
+	font-size: 0px;
+}
+
+.charts #myChart {
+	width:300px;
+	height:500px;
+}
